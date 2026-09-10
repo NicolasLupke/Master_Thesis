@@ -1,0 +1,17 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{Acknowledgments}{iii}{Doc-Start}%
+\contentsline {chapter}{\nonumberline Abstract}{iv}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Related Work}{1}{chapter.2}%
+\contentsline {section}{\numberline {2.1}PRISMA}{1}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Theoretical Foundations}{1}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Experimental Evaluation}{1}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Experiment Design}{1}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Shared Agent Identity}{1}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Distinct Agent Identities}{2}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Discussion}{2}{chapter.5}%
+\def \@chapapp {\appendixname }
+\contentsline {chapter}{\nonumberline Abbreviations}{2}{chapter*.3}%
+\contentsline {chapter}{\nonumberline List of Figures}{2}{chapter*.4}%
+\contentsline {chapter}{\nonumberline List of Tables}{2}{chapter*.5}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

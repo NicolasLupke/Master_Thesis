@@ -1,0 +1,10 @@
+\chapter{Appendix} \label{chapter:Appendix}
+
+\section{Appendix A}
+
+WORK IN PROGRESS - LIKELY TO BE CUT
+
+DeLU Behavior:
+it doesn't know where the discontinuity is, so based on the training data provided, it will approximate functions by placing linear pieces  with discontinuities. When the piecewise bias changes, the loss metric will increase drastically, as even a slight shift in the bias can lead to losses for every point on the linear piece. Therefore, even small changes can have huge impacts during training, this slows down inference and destabilizes it. \cite{wang2023deep} also observed the behavior of the multiple pieces.
+
+However, when the target function increases in complexity with discontinuities the DeLU network has shown to outperform the SeLU network.
